@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Data_Com_Conversation">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/Data_Com_Conversation.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
